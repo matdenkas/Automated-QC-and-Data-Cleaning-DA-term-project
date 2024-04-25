@@ -5,6 +5,6 @@
 
 
 # Running Project
-Install dependencies from requirements.txt
-You probably want a virtual environment to install the dependencies into (venv)
-If you plan to use the visualization function make sure you execute with the -i flag `python3 -i ./main.py`
+Install dependencies from requirements.txt.
+You probably want a virtual environment to install the dependencies into (venv).
+If you plan to use the visualization function make sure you execute with the -i flag `python3 -i ./main.py`.
